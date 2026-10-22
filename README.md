@@ -17,7 +17,7 @@
 - 📱 Me gusta el desarrollo de apps Android y las interfaces
 - 🎮 También me defiendo con Unity
 - 🎨 Fuera del código, hago ilustración (estilo anime, marker y digital)
-- 📫 Contáctame: **tu-email@ejemplo.com**
+- 📫 Contáctame: **maria.gimenez@colegiomiralmonte.es**
 
 ---
 
